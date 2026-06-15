@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/historias-de-un-amor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Historias de un amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-de-un-amor-eterno/) |
+| **Get License** | [Request Licensing for Historias de un amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-de-un-amor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la ciudad grita nuestro cuento
+> Tú me tienes loco, aceleras mi aliento
+> Con un solo beso tú me robas la razón
+> Dueña de mis noches, dueña de mi corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
